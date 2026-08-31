@@ -3,3 +3,6 @@
 
 __pycache__/
 venv-gemini-2/
+
+imagens_temporarias/*
+!imagens_temporarias/.gitkeep
